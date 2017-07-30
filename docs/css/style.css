@@ -143,6 +143,10 @@ body{
 	min-height:200px;
 }
 
+#contact{
+	min-height:200px;
+}
+
 .socicon-mail{
 	margin-right:30px;
 }
@@ -178,4 +182,21 @@ body > .container {
 
 .fa{
 	margin-right:5px;
+}
+
+.oss_contrib_list{
+	display:list-item;
+	list-style-type:disc;
+	list-style-position:outside;
+	text-align:right;
+}
+
+.fa-circle{
+	margin-right:2px;
+}
+.fa-circle a{
+	margin-left:5px;
+}
+.tag{
+	margin-right:2px;
 }
